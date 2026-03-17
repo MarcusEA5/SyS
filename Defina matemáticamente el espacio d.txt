@@ -1,0 +1,4 @@
+Defina matemáticamente el espacio de las
+señales senoidales y compruebe numéricamente si se
+trata de un espacio vectorial.
+
